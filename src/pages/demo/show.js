@@ -1,3 +1,3 @@
-import { myName } from '@/utilities';
+import { myName } from '../../utilities';
 
 console.log(myName);
